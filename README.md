@@ -36,7 +36,7 @@ I’m always looking for opportunities to collaborate on exciting **data analysi
 
 ### 📫 Get in Touch
 - **Email:** kusimba96@gmail.com
-- **LinkedIn:** [linkedin.com/in/itsrabin](https://linkedin.com/in/ignatius-rabin)
+- **LinkedIn:** [linkedin.com/in/ignatius-kusimba](https://linkedin.com/in/ignatius-kusimba)
 
 ---
 
