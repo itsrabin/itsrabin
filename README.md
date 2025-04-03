@@ -1,6 +1,6 @@
 # Hi there, I'm Ignatius Rabin Kusimba! 👋
 
-### Data Analyst | Customer Success Analyst | Tech Enthusiast
+### Data Analyst | Customer Insights Specialist | Tech Enthusiast
 
 I’m a passionate **Data Analyst** with a sharp eye for detail and a drive to turn complex data into actionable insights. With a strong foundation in **SQL**, **Python**, **Power BI**, and **Excel**, I have helped businesses make data-driven decisions that enhance customer experiences and operational efficiency.
 
@@ -35,7 +35,7 @@ I’m always looking for opportunities to collaborate on exciting **data analysi
 ---
 
 ### 📫 Get in Touch
-- **Email:** kusimba96@gmail.com
+- **Email:** kusimba62@gmail.com
 - **LinkedIn:** [linkedin.com/in/ignatius-kusimba](https://linkedin.com/in/ignatius-kusimba)
 
 ---
